@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-Mexico"
-title                    : "Academic and Professional Website of Mauricio"
+title                    : "Mauricio Missael Sáncheez Díaz"
 title_separator          : "-"
 name                     : &name "Mauricio Missael Sáncheez Díaz"
 description              : &description "personal description"
 url                      : https://mausandia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mausandia/personalPage.github.io"
+repository               : "mausandia/mausandia.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mauricio Sánchez Díaz"
+  name             : "Data scientist & data engineer"
   avatar           : "profile.png"
-  bio              : "Data scientist and data engineer"
+  bio              : "D"
   location         : "Mexico City"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://mx.linkedin.com/in/mausandia"
+  linkedin         : "https://linkedin.com/mausandia"
   orcid            : 
   pinterest        :
   soundcloud       :
