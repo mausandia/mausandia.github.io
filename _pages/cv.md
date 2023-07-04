@@ -39,7 +39,5 @@ Work experience
 
 Publications
 ======
-  <ul>{% Tesis de Licenciatura  %}
-    {% [Dilucidación de la primera demostración del teorema adiabático](http://132.248.9.195/ptd2017/octubre/0767016/Index.html) %}
-  {% Adviser: Dr. Armando Reyes Serrato %}</ul>
+  <ul>Tesis de Licenciatura [Dilucidación de la primera demostración del teorema adiabático](http://132.248.9.195/ptd2017/octubre/0767016/Index.html) Adviser: Dr. Armando Reyes Serrato</ul>
   
