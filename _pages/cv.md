@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Nanotecnhology, [Centro de Nanociencias y Nanotecnología - UNAM](https://nanolic.ens.cnyn.unam.mx/inicio), 2017
+* M.S. in Medical Physics, [Instituto de Ciencias Nucleares - UNAM](https://www.nucleares.unam.mx/), 2020
+* Graduate Specialization in Applied Statistics, [Instituto de Investigaciones en Matemáticas Aplicadas y Sistemas - UNAM](https://www.iimas.unam.mx/), 2022
+* Graduate Specialization in High Performance Computing, [Instituto de Investigaciones en Matemáticas Aplicadas y Sistemas - UNAM](https://www.iimas.unam.mx/), 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-present: Data Scientist
+  * [Clikalia](https://www.nucleares.unam.mx/)
+  * Duties included: Strategies to develop sofware product for adquisition departament
+
+* 2022-2023: Data Engineer
+  * [Instituto de Ciencias Nucleares - UNAM](https://www.nucleares.unam.mx/)
+  * Duties included: Using the grid infrestructure to an aplication of proteomics project
+  * Supervisor: Dr. Lukas Nellen
+
+* 2021-2022: Data Scientist
+  * [FACMED-UNAM](http://radiofarmacia.facmed.unam.mx/investigacion.html)
+  * Duties included: Research of models to prognostisis
+ 
+* 2018-2020: Research Statistician
+  * [Laboratorio de Física Médica - INNN](http://www.innn.salud.gob.mx/interna/investigacion/departamentos/fisica.html)
+  * Duties included: Create strategies to develop software product for acquisition department
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>{% Tesis de Licenciatura  %}
+    {% [Dilucidación de la primera demostración del teorema adiabático](http://132.248.9.195/ptd2017/octubre/0767016/Index.html) %}
+  {% Adviser: Dr. Armando Reyes Serrato %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
