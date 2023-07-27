@@ -1,6 +1,6 @@
 ---
 title: "Algoritmo de Bellman-Ford para Sistemas Distribuidos"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Konigsberg_bridges_3.png'>"
+excerpt: "Este es un proyecto para implementar el algoritmo de Bellman-Ford para una red de computadoras LAN<br/><img src='/images/Konigsberg_bridges_3.png'>"
 collection: portfolio
 ---
 <h1 style="text-align:center">Grafos y sus aplicaciones $^{[1][2]}$</h1>
