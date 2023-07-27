@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * [B.S. in Nanotecnhology](https://nanolic.ens.cnyn.unam.mx/inicio), [Centro de Nanociencias y Nanotecnología - UNAM](https://www.cnyn.unam.mx/), 2017
-* [M.S. in Medical Physics](https://w2.fisica.unam.mx/fismed), [Instituto de Física - UNAM]([https://www.nucleares.unam.mx/](https://www.fisica.unam.mx/), 2020
+* [M.S. in Medical Physics](https://w2.fisica.unam.mx/fismed), [Instituto de Física - UNAM](https://www.fisica.unam.mx/), 2020
 * [Graduate Specialization in Applied Statistics](https://www.posgrado.unam.mx/matematicas/es/especializacion-en-estad%C3%ADstica-aplicada), [Instituto de Investigaciones en Matemáticas Aplicadas y Sistemas - UNAM](https://www.iimas.unam.mx/), 2022
 * [Graduate Specialization in High Performance Computing](http://www.pcic.unam.mx/index.php), [Instituto de Investigaciones en Matemáticas Aplicadas y Sistemas - UNAM](https://www.iimas.unam.mx/), 2023
 
