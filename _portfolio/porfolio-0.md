@@ -1,3 +1,8 @@
+---
+title: "Análisis de los Optimizadores de Redes Neuronales con TensorFlow"
+excerpt: "Este es un proyecto para analisar los optimizadores más utilizado al entrenar redes neuronales con TensorFlow<br/><img src='/images/tf.png'>"
+collection: portfolio
+---
 <h1 style="text-align:center">Grafos y sus aplicaciones $^{[1][2]}$</h1>
 <p style="text-align:justify">
 La teoría de grafos fue formulada por Leonhard Euler al analizar el problema de los siete puentes de Königsberg en 1736. En este problema, Euler representó cada área de tierra como un vértice y cada puente como una arista. Con la pariedad de los vértices determinó que no existe solución.
