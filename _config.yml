@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Mauricio Missael Sánchez Díaz', 'mausandia@gmail.com', 'https://mausandia.github.io', 'Data Scientists & Data engineer']
+  allowedFields          : ['Mauricio Missael Sánchez Díaz', 'mausandia@gmail.com', 'https://mausandia.github.io', 'Data Scientist & Data engineer']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Data scientist & data engineer"
   avatar           : "img-01.jpg"
-  bio              : "Data engineer building information flows with quality practices of software development and state of the art technology with years of experience as data scientist and analyst"
+  bio              : "Skilled analytics professional with over 5 years of experience designing and developing data warehouses and analytics algorithms to create end-to-end data software products and systems across diverse industries."
   location         : "Mexico City"
   employer         :
   pubmed           : 
