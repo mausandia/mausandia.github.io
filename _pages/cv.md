@@ -9,17 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* [B.S. in Nanotecnhology](https://nanolic.ens.cnyn.unam.mx/inicio), [Centro de Nanociencias y Nanotecnología - UNAM](https://www.cnyn.unam.mx/), 2017
-* [M.S. in Medical Physics](https://w2.fisica.unam.mx/fismed), [Instituto de Física - UNAM](https://www.fisica.unam.mx/), 2020
-* [Graduate Specialization in Applied Statistics](https://www.posgrado.unam.mx/matematicas/es/especializacion-en-estad%C3%ADstica-aplicada), [Instituto de Investigaciones en Matemáticas Aplicadas y Sistemas - UNAM](https://www.iimas.unam.mx/), 2022
-* [Graduate Specialization in High Performance Computing](http://www.pcic.unam.mx/index.php), [Instituto de Investigaciones en Matemáticas Aplicadas y Sistemas - UNAM](https://www.iimas.unam.mx/), 2023
-
 Work experience
 ======
 
-* 2021-present: Data Scientist
+* 2024-currently: Data Engineer
+  * [Sngular](https://www.sngular.com/)
+  * Duties included: Strategies to develop sofware product for adquisition departament.
+
+* 2023-2024: Data Engineer
+  * [GlobalHitts](https://globalhitss.com/)
+  * Duties included: Strategies to develop sofware product for adquisition departament.
+
+* 2021-2023: Data Scientist
   * [Clikalia](https://clikalia.com/mx)
   * Duties included: Strategies to develop sofware product for adquisition departament.
 
@@ -38,15 +39,23 @@ Work experience
 
 Technologies experience
 ======
-  * Programing languages: Python, Matlab, Java, SQL, NoSQL, Batch, Unix Shell, R, Julia, Fortran.
-  * Data Science Stack: SciPy, Numpy, statsModels, Scikit-Learn, TensorFlow.
-  * Data Engineer Stack: AirFlow, MLFlow, Numba, GitHub, KubeFlow, MongoDB, Postgresql, Cosmmos DB
+  * Programing languages: Python, Matlab, Java, SQL, NoSQL, Batch, Unix Shell, R, Scala, Julia, Fortran.
+  * Data Science Stack: Scikit-Learn, TensorFlow, SciPy, Numpy, statsModels.
+  * Data Engineer Stack: DBT, AirFlow, NiFi, MLFlow, GitHub, Docker, Azure DataBricks, Spark.
+  * Data Bases Stack: Postgresql, SnowFlake, BigQuery, Cosmos DB, MongoDB.
   * Data Analyst Stack: PowerBI, Pandas, MatplotLib, SeaBorn, Excel, Word, PowerPoint.
-  * Methodologies Stack: Scrum (Agile).
+  * Methodologies Stack: Scrum (Agile), Azure DevOps.
   * Concurrent and distributed programming: Synchronization mechanisms (critical section, Semaphore, monitors, message passing interface [OpenMP, OpenMPI], Multithreading).
   * Languages type experience: Declarative languages, Imperative languages, Object-oriented languages.
   * Virtual Machine Administration: ProxMox, VRMachine.
   * Operative System: Windows, Linux(Unix Shell), MacOS.
+
+Education
+======
+* [Graduate Specialization in High Performance Computing](http://www.pcic.unam.mx/index.php), [Instituto de Investigaciones en Matemáticas Aplicadas y Sistemas - UNAM](https://www.iimas.unam.mx/), 2023
+* [Graduate Specialization in Applied Statistics](https://www.posgrado.unam.mx/matematicas/es/especializacion-en-estad%C3%ADstica-aplicada), [Instituto de Investigaciones en Matemáticas Aplicadas y Sistemas - UNAM](https://www.iimas.unam.mx/), 2022
+* [M.S. in Medical Physics](https://w2.fisica.unam.mx/fismed), [Instituto de Física - UNAM](https://www.fisica.unam.mx/), 2020
+* [B.S. in Nanotecnhology](https://nanolic.ens.cnyn.unam.mx/inicio), [Centro de Nanociencias y Nanotecnología - UNAM](https://www.cnyn.unam.mx/), 2017
 
 Publications
 ======
